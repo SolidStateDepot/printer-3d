@@ -15,11 +15,11 @@ The top level of the repository contains general documents for all 3D printers. 
 	|
 	/tw-mm-16		:: Terawatt Industries MendelMax 1.6 resource files
 	/tw-mm-16/slic3r	:: slic3r files (INIs)
-	/tw-mm-16/marlin	:: actually the Atlantic fork
+	/tw-mm-16/marlin	:: TW Atlantic fork of Marlin
 	|
 	/prusa-i2		:: SSD Prusa i2
 	/prusa-i2/slic3r	:: slicr files (INIs)
-	/prusa-i2/marlin	:: actually the Atlantic fork
+	/prusa-i2/marlin	:: Marlin for Prusa i-2 - w/original SSD mods
 	|
 	/lulz-ao-100		:: Lulz AO-100 (the AO-100 with the 00str00der)
 	/lulz-ao-100/slic3r	:: slicr files (INIs)
