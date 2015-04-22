@@ -11,7 +11,7 @@ The resource files in this repo. include:
 ## Directory Structure
 The top level of the repository contains general documents for all 3D printers.  Then there are subfolders for each _model_ of 3D printer at SSD.
 
-/ -- repo root
+	/ -- repo root
 	|
 	/tw-mm-16		:: Terawatt Industries MendelMax 1.6 resource files
 	/tw-mm-16/slic3r	:: slic3r files (INIs)
