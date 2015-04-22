@@ -23,11 +23,11 @@ The top level of the repository contains general documents for all 3D printers. 
 	|
 	/lulz-ao-100		:: Lulz AO-100 (the AO-100 with the 00str00der)
 	/lulz-ao-100/slic3r	:: slicr files (INIs)
-	/lulz-ao-100/marlin	:: actually the Atlantic fork
+	/lulz-ao-100/marlin	:: AO-100 marlin - from Lulzbot
 	/lulz-ao-100/hardware	:: CAD files
 	/lulz-ao-100/hardware/ssd	:: custom CADs by SSD members
 	/lulz-ao-100/hardware/vendor	:: CADs from Lulzbot
 	|
 	/lulz-ao-100-d2		:: Lulz AO-100-D2 (printed Greg's/Wade's extruder)
 	/lulz-ao-100-d2/slic3r	:: slicr files (INIs)
-	/lulz-ao-100-d2/marlin	:: actually the Atlantic fork
+	/lulz-ao-100-d2/marlin	:: AO-100 marlin - from Lulzbot
